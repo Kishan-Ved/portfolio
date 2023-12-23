@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Sopohomore</p>
-    <p>IIT Gandhinagar, CSE</p>
+    <p>Sopohomore,</p>
+    <p>IIT Gandhinagar, CSE,</p>
     <p>Mumbai, India</p>
 
 news: false  # includes a list of news items
