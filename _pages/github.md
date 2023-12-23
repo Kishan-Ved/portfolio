@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /github/
-title: Github
+title: GitHub
 description: Listed below are my GitHub statistics. If you want to check out my GitHub Repositories, check Repositories on the navbar.
 nav: true
 nav_order: 4
