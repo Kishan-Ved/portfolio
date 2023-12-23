@@ -95,14 +95,6 @@ horizontal: false
       and optimization strategies to navigate the intricacies of stock market dynamics effectively.</li>
   </ul>
 
-  <h2><strong>MetaIITGN</strong></h2>
-  <p>[Jun '23 - Ongoing]</p>
-  <p><em>(Technical Council, IIT Gandhinagar) | <a href="https://opensource-iitgn.github.io/metaiitgn/">Project Link</a></em></p>
-  <ul>
-    <li>One of the founding contributors of this platform. Designed web pages using MKDocs and merged them on github.</li>
-    <li>Working on making the platform open to discussions adding additional functionalities.</li>
-  </ul>
-
   <h2><strong>Data Narratives</strong></h2>
   <p>[Jan '23 - Apr '23]</p>
   <p><em>(Advisor - Professor Shanmughanathan Raman, IIT Gandhinagar) | <a
@@ -120,3 +112,12 @@ horizontal: false
     <li>Deployed a web application that allows users to communicate in real-time.</li>
     <li>Learned the use of NodeJS and SocketIO and creating a large codebase of organized codes.</li>
   </ul>
+
+  <h2><strong>MetaIITGN</strong></h2>
+  <p>[Jun '23 - Ongoing]</p>
+  <p><em>(Technical Council, IIT Gandhinagar) | <a href="https://opensource-iitgn.github.io/metaiitgn/">Project Link</a></em></p>
+  <ul>
+    <li>One of the founding contributors of this platform. Designed web pages using MKDocs and merged them on github.</li>
+    <li>Working on making the platform open to discussions adding additional functionalities.</li>
+  </ul>
+
