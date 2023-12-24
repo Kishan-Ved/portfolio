@@ -19,7 +19,8 @@ horizontal: false
       distribution.</li>
     <li>Developed and implemented a methodology utilizing the method of moments to derive equations for charge density on the
       spacecraft's surface. Employed numerical methods such as Gaussian elimination, Gauss-Jordan algorithm, and TDMA to
-      solve the system of equations, providing a detailed and accurate charge distribution profile.</li>
+      solve the system of equations, providing a detailed and accurate charge distribution profile. 
+      Programming of all mathematical equations and visualizations are done using Python and it's libraries.</li>
   </ul>
 
   <h2><strong>Child Safety Monitoring Application, IoT Powered bicycle safety system</strong></h2>
