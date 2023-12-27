@@ -1,3 +1,11 @@
+# Personal
+For modifications, run the following commands inside this folder (currently named portfolio)
+- git add .
+- git commit -m "commit message"
+- git push origin master
+
+Now wait for a while, changes will appear after the gh-pages branch is AUTOMATICALLY modified.
+
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
