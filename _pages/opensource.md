@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /github/
+permalink: /opensource/
 title: OpenSource
 description: My open source contributions on various GitHub Repositories are listed here.
 nav: true

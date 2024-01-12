@@ -1,7 +1,7 @@
 # Personal
 For a local run: 
 ./portfolio
-undle exec jekyll serve --lsi
+bundle exec jekyll serve --lsi
 
 For modifications, run the following commands inside this folder (currently named portfolio)
 - git add .
