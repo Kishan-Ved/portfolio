@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-## GitHub users
+## My GitHub Stats
 
 {% if site.data.repositories.github_users %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -15,6 +15,8 @@ nav_order: 4
     {% include repository/repo_user.html username=user %}
   {% endfor %}
 </div>
+
+Check OpenSource on the navbar to know my top OpenSource Contributions.
 
 ---
 
