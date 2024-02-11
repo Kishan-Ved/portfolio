@@ -9,6 +9,22 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+  <h2><strong>Facebook graph clustering based on density (Data Science Project)</strong></h2>
+  <p>[Jan '24]</p>
+  <p><em>(Advisor - Professor Anirban Dasgupta, Professor- IIT Gandhinagar) | <a href="https://github.com/Kishan-Ved/DS_Clustering/blob/master/facebook_graph_clustering.ipynb">Project Link</a></em></p>
+  <ul>
+    <li>Implemented a greedy algorithm to extract the densest subgraph from Facebook's graph (with pages being nodes and mutual links being edges). Peeled the 5 densest subgraphs (and hence, detected 5 closely knit communities in the graph) and analyzed their entropy.</li>
+    <li>Learned to employ data clustering techniques on large real-world datasets, involving logic and algorithmic optimization in terms of both space and time complexity. Developed using Python and its relevant libraries like NumPy and Pandas.</li>
+  </ul>
+
+  <h2><strong>Human Activity Recognizer (using Machine Learning)</strong></h2>
+  <p>[Jan '24]</p>
+  <p><em>(Advisor - Professor Nipun Batra, Professor- IIT Gandhinagar) | <a href="https://github.com/Kishan-Ved/ML-actifier">Project Link</a></em></p>
+  <ul>
+    <li>Made a machine learning model that uses only decision trees to recognize 6 different human activities by utilizing time series data of acceleration involved.</li>
+    <li>Learned to handle time series data by employing featurization and dimension reduction. Performed hyperparameter tuning to select the best model based on the bias-variance tradeoff. Deployed the model and tested the predictions on real acceleration data collected from a smartphone.</li>
+  </ul>
+
   <h2><strong>Spacecraft Charge Distribution Modelling</strong></h2>
   <p>[Sept '23 - Nov '23]</p>
   <p><em>(Advisor - Professor Soumyabrata Chakrabarty, Scientist- ISRO SAC, Professor- IIT Gandhinagar) | <a
