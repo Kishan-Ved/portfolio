@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: Repositories
 description: Listed below are my GitHub repositories containing my projects. Every project has a detailed README file available on GitHub.
-nav: true
+nav: false
 nav_order: 3
 ---
 

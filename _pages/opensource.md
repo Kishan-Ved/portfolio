@@ -3,7 +3,7 @@ layout: page
 permalink: /opensource/
 title: OpenSource
 description: My open source contributions on various GitHub Repositories are listed here.
-nav: true
+nav: false
 nav_order: 4
 ---
 
