@@ -9,6 +9,15 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+<h2><strong>Text Generator based on next character prediction (Machine Learning Project)</strong></h2>
+<p>[Mar '24]</p>
+<p><em>(Advisor - Professor Nipun Batra, Professor- IIT Gandhinagar) | <a href="https://github.com/Kishan-Ved/text_generator/tree/emb10">Project Link</a> | <a href="https://skynet-text-generator-ml.streamlit.app/">Application link</a></em></p>
+<ul>
+  <li>This project involves generating text by predicting the next character based on the last 'k' characters. The model used is a neural network with an embedding layer followed by 2 hidden layers. The model is able to capture the semantics of English language and generate meaningful words and phrases.</li>
+  <li>Observed the difference in results based on the choice of embedding and architecture of the neural network. Performed hyperparameter tuning to get the best results. Learned to deploy an application on Streamlit.</li>
+</ul>
+
+
   <h2><strong>Facebook graph clustering based on density (Data Science Project)</strong></h2>
   <p>[Jan '24]</p>
   <p><em>(Advisor - Professor Anirban Dasgupta, Professor- IIT Gandhinagar) | <a href="https://github.com/Kishan-Ved/DS_Clustering/blob/master/facebook_graph_clustering.ipynb">Project Link</a></em></p>
