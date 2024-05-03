@@ -24,6 +24,6 @@ Hello, I'm Kishan Ved, a sophomore at IIT Gandhinagar studying computer science 
 - I'm an Open Source Contributor and I'm currently contributing to NumFOCUS for Google Summer of Code 2024.<br>
 - I'm keen to build projects that benefit the society.<br>
 - I love competitive programming, algorithms and their implementation.<br>
-- I have a deep inclination for machine learning, you can find my Machine Learning Blogs on this website.
+- I have a deep inclination for machine learning.
 
 ---
