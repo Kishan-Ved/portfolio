@@ -119,17 +119,17 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blogs by Kishan # blog_name will be displayed in your blog page
-blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Please follow the link to visit my <a href="https://kishan-ved.github.io/Blogs/" target="_blank">blogs</a> page, which is hosted on another website.
-permalink: /blog/:year/:title/
+blog_name: Google Summer of Code 2024 # blog_name will be displayed in your blog page
+blog_nav_title: GSoC # your blog must have a title for it to be displayed in the nav bar
+blog_description: My blogs for Google Summer of Code 2024, with NumFOCUS, Open Science Labs, PyDataStructs.
+permalink: /blog/:title
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 related_blog_posts:
-  enabled: false
+  enabled: true
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
