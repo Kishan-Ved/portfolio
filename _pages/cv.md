@@ -4,8 +4,8 @@ permalink: /cv/
 title: Resume
 nav: true
 nav_order: 4
-cv_pdf: Kishan_Ved_Resume_Mar29.pdf
+cv_pdf: Kishan_Ved_Resume_May5.pdf
 description: Please find my detailed resume in the pdf. Click on the button alongside.
 toc:
-  sidebar: left
+sidebar: left
 ---
