@@ -8,7 +8,6 @@ For modifications, run the following commands inside this folder (currently name
 - git commit -m "commit message"
 - git push origin master
 
-
 Now wait for a while, changes will appear after the gh-pages branch is AUTOMATICALLY modified.
 
 # al-folio
@@ -188,6 +187,7 @@ Workshop on Diffusion Models (NeurIPS: <a href="https://diffusionworkshop.github
 
 ## Table Of Contents
 
+- [Personal](#personal)
 - [al-folio](#al-folio)
   - [User community](#user-community)
   - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
