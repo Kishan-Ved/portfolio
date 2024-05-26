@@ -130,7 +130,7 @@ pagination:
 
 related_blog_posts:
   enabled: true
-  max_related: 5
+  max_related: 3
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
@@ -179,7 +179,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 15 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
