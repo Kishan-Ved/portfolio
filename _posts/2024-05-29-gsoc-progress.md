@@ -114,6 +114,7 @@ def test_cpp_BST2():
     b = BST(8, 8, backend=Backend.CPP)
     # b = BST(8, 8)
 
+
     ##### insert() and delete() tests #####
     b.delete(8)
     b.insert(8, 8)
@@ -131,11 +132,13 @@ def test_cpp_BST2():
     "(5, 6, 6, 6), (None, 4, 4, None), (None, 7, 7, None), (8, 14, 14, None), "
     "(None, 13, 13, None)]")
 
+
     ##### _simple_path() test #####
     path = b._simple_path(1,0)
     assert path[0] == 0
     assert path[1] == 1
     assert path[2] == 3
+
 
     ##### search() and delete() tests #####
     assert b.search(10) == 2
@@ -172,7 +175,7 @@ def test_cpp_BST2():
     b2.insert(-14, 14)
     b2.insert(-13, 13)
     assert str(b2) ==  "[(2, -8, 8, 1), (4, -3, 3, 3), (7, -10, 10, None), (None, -1, 1, None), (6, -6, 6, 5), (None, -4, 4, None), (None, -7, 7, None), (None, -14, 14, 8), (None, -13, 13, None)]"
-    # To Do: Fix CI error in next 5 lines, if we use: assert b2.delete(-13) is True
+
     b2.delete(-13)
     assert str(b2) == "[(2, -8, 8, 1), (4, -3, 3, 3), (7, -10, 10, None), (None, -1, 1, None), (6, -6, 6, 5), (None, -4, 4, None), (None, -7, 7, None), (None, -14, 14, None)]"
     b2.delete(-10)
@@ -186,6 +189,7 @@ def test_cpp_BST2():
     for node in nodes:
         bl1.insert(node, node)
     assert str(bl1) == "[(1, 50, 50, 2), (8, 30, 30, 9), (3, 90, 90, 4), (5, 70, 70, 6), (None, 100, 100, None), (7, 60, 60, None), (None, 80, 80, None), (None, 55, 55, None), (10, 20, 20, None), (None, 40, 40, None), (11, 15, 15, 12), (None, 10, 10, None), (None, 16, 16, 13), (None, 17, 17, 14), (None, 18, 18, None)]"
+
 
     ##### lowest common ancestor _lca2_() tests #####
     assert bl1.lowest_common_ancestor(80, 55, 2) == 70
@@ -209,6 +213,7 @@ def test_cpp_BST2():
         bl2.insert(node, node)
     assert str(bl2) == "[(1, 50, 50, 2), (8, 30, 30, 9), (3, 90, 90, 4), (5, 70, 70, 6), (None, 100, 100, None), (7, 60, 60, None), (None, 80, 80, None), (None, 55, 55, None), (10, 20, 20, None), (None, 40, 40, None), (11, 15, 15, 12), (None, 10, 10, None), (None, 16, 16, 13), (None, 17, 17, 14), (None, 18, 18, None)]"
 
+
     ##### lowest common ancestor _lca1_() tests #####
     assert bl2.lowest_common_ancestor(80, 55, 1) == 70
     assert bl2.lowest_common_ancestor(60, 70, 1) == 70
@@ -224,6 +229,7 @@ def test_cpp_BST2():
     assert raises(ValueError, lambda: bl2.lowest_common_ancestor(200, 60, 1))
     assert raises(ValueError, lambda: bl2.lowest_common_ancestor(-3, 4, 1))
 
+
     ##### rank() tests #####
     assert bl2.rank(18) == 5
     assert bl2.rank(10) == 1
@@ -231,6 +237,7 @@ def test_cpp_BST2():
     for i,node in enumerate(nodes):
         assert bl2.rank(node) == rank_list[i]
     assert bl2.rank(200) is None
+
 
     ##### select() tests #####
     select_list = [10, 50, 55, 90, 100]
@@ -243,11 +250,13 @@ def test_cpp_BST2():
     b3.insert(18, 18)
     b3.insert(7, 7)
 
+
     ##### upper_bound() tests #####
     assert b3.upper_bound(9) == 10
     assert b3.upper_bound(7) == 10
     assert b3.upper_bound(-1) == 7
     assert b3.upper_bound(20) is None
+
 
     ##### lower_bound() tests #####
     assert b3.lower_bound(9) == 10
