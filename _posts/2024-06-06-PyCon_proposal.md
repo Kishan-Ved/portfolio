@@ -14,7 +14,7 @@ categories: GSoC'24
 Python is an amazing programming language, because of it's simplicity, productivity and versatile ecosystem. However, when it comes to performance-critical tasks and numerical computing, the trade-off between ease of use and execution becomes a challenge. The solution to this: add a C++ backend! This retains all of Python's amazing functionality in the frontend and harnesses the lightning fast execution speed of C++. Experience the process of accelerating any Python code by adding a C++ backend.
 
 ### Description
-PyDataStructs is an open source Python package for various data structures and algorithms, including their parallel implementations. As a part of Google Summer of Code 2024, I worked on adding a C++ backend for different tree data structures and their algorithms in PyDataStructs. This has greatly enhanced the speed of execution, making it 5-8 times faster. I have done this by extending Python with C++ using the Python C API. This allows that the user to work in the simple and easy to understand Python frontend, while all the execution takes place in the C++ backend. The talk showcases the power of extending Python with C++ and provides an easy to understand demonstration of the same.
+PyDataStructs is an open source Python package for various data structures and algorithms, including their parallel implementations. As a part of Google Summer of Code 2024, I worked on adding a C++ backend for different tree data structures and their algorithms in PyDataStructs. This has greatly enhanced the speed of execution, making it 5-8 times faster. I have done this by extending Python with C++ using the Python C API. This allows the user to work in the simple and easy to understand Python frontend, while all the execution takes place in the C++ backend. The talk showcases the power of extending Python with C++ and provides an easy to understand demonstration of the same.
 
 **Outline of the talk**
 
@@ -43,7 +43,7 @@ PyDataStructs is an open source Python package for various data structures and a
     - Exhibiting how the user can change the backend to C++ (from regular Python)
  - Conclusion and  Takeaways (2 minutes)
     - Summarizing the key points covered in the talk.
-    - Encouraging attendees to extend their Python codes/packages by using Python C API.
+    - Encouraging attendees to extend their Python codes/packages with C++ by using the Python C API.
  - Q&A session (5 minutes)
     - Allowing attendees to ask questions related to Python C API and PyDataStructs.
     - Engaging in discussions and providing clarifications as needed.
