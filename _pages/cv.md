@@ -4,7 +4,7 @@ permalink: /cv/
 title: Resume
 nav: true
 nav_order: 4
-cv_pdf: Kishan_Ved_Resume_Jun8.pdf
+cv_pdf: Kishan_Ved_Resume_Jun10.pdf
 description: To download my resume, click on the button alongside.
 # toc:
 # sidebar: left

@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<b>Hello, I'm Kishan Ved, a sophomore at IIT Gandhinagar studying computer science engineering</b>
+<b>Hello, I'm Kishan Ved, a third year undergraduate student at IIT Gandhinagar studying computer science and engineering.</b>
 <br><br>
 # 💫 About Me:
 - I'm an Open Source Contributor and I'm currently contributing to NumFOCUS for Google Summer of Code 2024. Check out my <b>[GSoC'24 Blogs](https://kishanved.tech/blog/).<br></b>
