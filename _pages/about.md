@@ -25,7 +25,7 @@ social: false  # includes social icons at the bottom of the page
 - I'm an Open Source Contributor and I'm currently contributing to NumFOCUS for Google Summer of Code 2024. Check out my <b>[GSoC'24 Blogs](https://kishanved.tech/blog/).<br></b>
 - I have also contributed to LFortran, a Fortran compiler and LPython, a Python compiler.<br>
 - I'm keen to build projects that benefit the society.<br>
-- I love competitive programming, algorithms and their implementation.<br>
+- I love competitive programming, algorithms and their implementation. I am a **specialist on Codefoces**. Here's my profile: **[kishan.ved](https://codeforces.com/profile/kishan.ved)** <br>
 - I have a deep inclination for machine learning.
 
 ---
