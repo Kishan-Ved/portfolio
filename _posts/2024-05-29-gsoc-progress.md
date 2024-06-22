@@ -4,7 +4,8 @@ title: My GSoC Progress
 date: 2025-05-29 00:00:00 # The blog will be posted at exactly this time and date (based on the US time mostly)
 description: My progress in Google Summer of Code 2024!
 tags: GSoC'24
-categories: GSoC;24
+categories: GSoC'24
+featured: true
 ---
 
 ## My GSoC Progress:

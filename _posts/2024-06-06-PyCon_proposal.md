@@ -5,6 +5,7 @@ date: 2024-06-06 00:00:00 # The blog will be posted at exactly this time and dat
 description: My proposal for PyCon 2024, Bengaluru. Related to my work done in PyDataStructs during GSoC 2024.
 tags: PyCon'24
 categories: GSoC'24
+featured: true
 ---
 
 # Unleashing Python's Power: Lightning-fast speed with a C++ Backend
