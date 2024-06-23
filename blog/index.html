@@ -55,7 +55,7 @@ pagination:
   {% if featured_posts.size > 0 %}
     <br>
     <div class="container featured-posts">
-      <!-- {% assign is_even = featured_posts.size | modulo: 2 %} -->
+      {% assign is_even = featured_posts.size | modulo: 2 %}
       <div class="row row-cols-featured_posts.size">
       {% for post in featured_posts %}
         <div class="card-item col">
