@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Sopohomore,</p>
+    <p>Third Year Undergrad,</p>
     <p>IIT Gandhinagar, CSE,</p>
     <p>Mumbai, India</p>
 
