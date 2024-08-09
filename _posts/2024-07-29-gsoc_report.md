@@ -12,7 +12,7 @@ featured: true
 This report summarizes the work done by me (**[Kishan Ved](https://github.com/Kishan-Ved)**) for **Google Summer of Code 2024** with the **NumFOCUS** organization, on the project **[Open Science Labs: PyDataStructs: Add a C++ Backend for tree data structures and their algorithms](https://summerofcode.withgoogle.com/programs/2024/projects/2nrxEFTg)**.
 Weekly reports are available here: [GSoC BLogs](https://kishanved.tech/blog/)
 
-This report is available as a GitHub Gist. [View here.](https://gist.github.com/Kishan-Ved/ebe0a971220d67517ae815e4f92d2459)
+This report is available as a GitHub Gist, it contains more revisions. [View here.](https://gist.github.com/Kishan-Ved/ebe0a971220d67517ae815e4f92d2459)
 
 ![alt text](../assets/img/GSoC_NumFOCUS.png){:width="100%"}
 
