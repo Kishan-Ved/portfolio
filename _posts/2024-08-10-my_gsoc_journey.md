@@ -116,7 +116,7 @@ I started working from the community bonding period itself, and this gave me a g
 
 ## Contribution Stats:
 
-Lines added: **+4,721** (#2 contributor in terms of lines added)
+Lines added: **<span style="color: green;">+4,721</span>** (#2 contributor in terms of lines added)
 
 Commits made: 12
 
