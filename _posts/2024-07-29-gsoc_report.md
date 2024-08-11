@@ -16,11 +16,25 @@ This report is available as a GitHub Gist, it contains more revisions. [View her
 
 ![alt text](../assets/img/GSoC_NumFOCUS.png){:width="100%"}
 
-
 ## About me
-I am Kishan Ved, an undergraduate student at Indian Institute of Technology Gandhinagar (IIT Gandhinagar), India, in the department of Computer Science and Engineering.
+I am Kishan Ved, an undergraduate student at the Indian Institute of Technology Gandhinagar (IIT Gandhinagar), India, in the department of Computer Science and Engineering.
 
-## Project Goals
+## About PyDataStructs
+
+[PyDataStructs](https://github.com/codezonediitj/pydatastructs) aims to be a Python package for various data structures in computer science. We are also working on the development of algorithms including their parallel implementations. To the best of our knowledge, PyDataStructs is the first well-designed library/package which has covered most of the data structures and algorithms.
+
+Features: 
+
+- A single package for all your data structures and algorithms - We have and are implementing many popular and useful data structures and algorithms.
+
+- Consistent and Clean Interface - The APIs we have provided are consistent with each other, clean and easy to use. We make sure of that before adding any new data structure or algorithm.
+
+- Well Tested - We thoroughly test our code before making any new addition to PyDataStructs. 99 percent lines of our code have already been tested by us.
+
+So, you can easily rely on PyDataStructs for any data structure or algorithm you want to use without worrying about implementing it from scratch. Everything is just a few calls away.
+
+## GSoC Project Goals
+
 My project involved adding a C++ backend for all tree data structures in [PyDataStructs](https://github.com/codezonediitj/pydatastructs), a Python package for advanced data structures and algorithms. The user has an option to select either the Python backend or the C++ backend.
 
 ```python
@@ -62,6 +76,7 @@ I started working from the community bonding period itself, and this gave me a g
 | [C++ backend for Cartesian Trees](https://github.com/codezonediitj/pydatastructs/pull/567) | **<span style="color: green;">+254</span>** |
 | [C++ backend for Treap](https://github.com/codezonediitj/pydatastructs/pull/568) | **<span style="color: green;">+150</span>** |
 | [C++ backend for all trees in `binary_trees.py` file complete](https://github.com/codezonediitj/pydatastructs/pull/569) | **<span style="color: green;">+72</span>** |
+| [Updated Documentation](https://github.com/codezonediitj/pydatastructs/pull/570) | **<span style="color: green;">+12</span>** |
 
 ---
 
