@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm selected for the Summer Internship at DevRev on Day 0 of IITGN's internship cycle!
+I'm selected for the Summer Internship at **DevRev** on Day 0 of IITGN's internship cycle!
