@@ -9,6 +9,15 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+<h2><strong>Resume Generator : opensource project</strong></h2>
+<p>[Dec '23 - Ongoing]</p>
+<p><em>(Code owner and maintainer of this repository, this project has participated in <b>Hacktoberfest 2024</b> and it has recieved several contributions!) | <a
+      href="https://kishan-ved.github.io/resume_generator/">Project Link</a></em></p>
+<ul>
+  <li>Developing an innovative website dedicated to the automatic generation of student resumes, adhering to the specific format mandated by the Placement Cell at IIT Gandhinagar.</li>
+  <li>Integrated an AI agent enabling students to enhance details in their resumes seamlessly, with the system autonomously generating professional resumes.</li> 
+</ul>
+
 <h2><strong>Text Generator based on next character prediction (Machine Learning Project)</strong></h2>
 <p>[Mar '24]</p>
 <p><em>(Advisor - Professor Nipun Batra, Professor- IIT Gandhinagar) | <a href="https://github.com/Kishan-Ved/text_generator/tree/emb10">Project Link</a> | <a href="https://skynet-text-generator-ml.streamlit.app/">Application link</a></em></p>
@@ -87,17 +96,6 @@ horizontal: false
       enhance the digital experience for participants and attendees.</li>
   </ul>
 
-  <h2><strong>Student Resume Generator Website</strong></h2>
-  <p>[Dec '23 - Ongoing]</p>
-  <p><em>(Technical Team, Career Development Services (CDS), IIT Gandhinagar) | <a
-        href="https://kishan-ved.github.io/resume_generator/">Project Link</a></em></p>
-  <ul>
-    <li>Developing an innovative website dedicated to the automatic generation of student resumes, adhering to the specific
-      format mandated by the Placement Cell at IIT Gandhinagar.</li>
-    <li>Engineered an intuitive user interface enabling students to input their details seamlessly, with the system
-      autonomously generating professional resumes. Emphasized precision and conformity to Placement Cell standards in
-      both design and coding, streamlining the resume creation process for students.</li>
-  </ul>
 
   <h2><strong>Machine Learning Blogs Website</strong></h2>
   <p>[Aug '23 - Ongoing]</p>

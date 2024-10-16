@@ -22,9 +22,9 @@ social: false  # includes social icons at the bottom of the page
 <b>Hello, I'm Kishan Ved, a third year undergraduate student at IIT Gandhinagar studying computer science and engineering.</b>
 <br><br>
 # 💫 About Me:
-- I'm an Open Source Contributor and I'm currently contributing to NumFOCUS for Google Summer of Code 2024. Check out my <b>[GSoC'24 Blogs](https://kishanved.tech/blog/).<br></b>
-- I have also contributed to LFortran, a Fortran compiler and LPython, a Python compiler.<br>
-- I'm keen to build projects that benefit the society.<br>
+- I'm an Open Source Contributor and I have contributed to NumFOCUS for **Google Summer of Code 2024**. Check out my <b>**[GSoC'24 Blogs](https://kishanved.tech/blog/)**.<br></b>
+- I have also contributed to other large scale open source projects, like **LFortran**, a Fortran compiler and **LPython**, a Python compiler.<br>
+- I'm keen to build impactful projects that benefit the society.<br>
 - I love competitive programming, algorithms and their implementation. I am a **specialist on Codefoces**. Here's my profile: **[kishan.ved](https://codeforces.com/profile/kishan.ved)** <br>
 - I have a deep inclination for machine learning.
 
