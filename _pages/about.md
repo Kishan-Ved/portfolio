@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: B.Tech at IIT Gandhinagar, CSE
+subtitle: B.Tech in Computer Science and Engineering at IIT Gandhinagar
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: kishan_manali_3.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Third Year Undergrad,</p>
@@ -19,8 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<b>Hello, I'm Kishan Ved, a third year undergraduate student at IIT Gandhinagar studying computer science and engineering.</b>
-<br><br>
+<b>Upcoming <span style="color: #0076df; font-weight: bold;">Software Engineering Intern @Microsoft</span>.<br><span style="color: #0076df; font-weight: bold;">Google Summer of Code 2024 @NumFOCUS</span>.</b>
+
 # 💫 About Me:
 - I'm an Open Source Contributor and I have contributed to NumFOCUS for **Google Summer of Code 2024**. Check out my <b>**[GSoC'24 Blogs](https://kishanved.tech/blog/)**.<br></b>
 - I have also contributed to other large scale open source projects, like **LFortran**, a Fortran compiler and **LPython**, a Python compiler.<br>
