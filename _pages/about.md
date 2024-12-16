@@ -6,12 +6,12 @@ subtitle: B.Tech in Computer Science and Engineering at IIT Gandhinagar
 
 profile:
   align: right
-  image: kishan_manali_3.jpeg
+  image: kishan_pic_IITB_sq.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Third Year Undergrad,</p>
-    <p>IIT Gandhinagar, CSE,</p>
-    <p>Mumbai, India</p>
+    <p>At InterIIT Tech Meet,</p>
+    <p>IIT Bombay,</p>
+    <p>December, 2024</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
