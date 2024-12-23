@@ -50,33 +50,33 @@ I started working from the community bonding period itself, and this gave me a g
 
 | PR Description | Contribution |
 |------------------|--------------|
-| [Added Introsort algorithm](https://github.com/codezonediitj/pydatastructs/pull/549) | **<span style="color: green;">+127</span>** |
-| [Fixed version related bugs](https://github.com/codezonediitj/pydatastructs/pull/553) | **<span style="color: green;">+4</span>** |
+| [PR: Added Introsort algorithm](https://github.com/codezonediitj/pydatastructs/pull/549) | **<span style="color: green;">+127</span>** |
+| [PR: Fixed version related bugs](https://github.com/codezonediitj/pydatastructs/pull/553) | **<span style="color: green;">+4</span>** |
 
 ### Community bonding period
 
 | PR Description | Contribution |
 |------------------|--------------|
-| [C++ backend for Node, TreeNode, ArrayForTrees, BinaryTree and BinarySearchTree and all tree traversals implemented](https://github.com/codezonediitj/pydatastructs/pull/556) | **<span style="color: green;">+1,936</span>** |
+| [PR: C++ backend for Node, TreeNode, ArrayForTrees, BinaryTree and BinarySearchTree and all tree traversals implemented](https://github.com/codezonediitj/pydatastructs/pull/556) | **<span style="color: green;">+1,936</span>** |
 
 ### Coding Phase 1
 
 | PR Description | Contribution |
 |------------------|--------------|
-| [C++ backend for Self Balancing Binary Tree](https://github.com/codezonediitj/pydatastructs/pull/559) | **<span style="color: green;">+328</span>** |
-| [C++ backend for Red Black Trees](https://github.com/codezonediitj/pydatastructs/pull/560) | **<span style="color: green;">+748</span>** |
-| [C++ backend for Binary Indexed Trees](https://github.com/codezonediitj/pydatastructs/pull/561) | **<span style="color: green;">+179</span>** |
-| [C++ backend for Splay Trees](https://github.com/codezonediitj/pydatastructs/pull/562) | **<span style="color: green;">+423</span>** |
+| [PR: C++ backend for Self Balancing Binary Tree](https://github.com/codezonediitj/pydatastructs/pull/559) | **<span style="color: green;">+328</span>** |
+| [PR: C++ backend for Red Black Trees](https://github.com/codezonediitj/pydatastructs/pull/560) | **<span style="color: green;">+748</span>** |
+| [PR: C++ backend for Binary Indexed Trees](https://github.com/codezonediitj/pydatastructs/pull/561) | **<span style="color: green;">+179</span>** |
+| [PR: C++ backend for Splay Trees](https://github.com/codezonediitj/pydatastructs/pull/562) | **<span style="color: green;">+423</span>** |
 
 ### Coding Phase 2
 
 | PR Description | Contribution |
 |------------------|--------------|
-| [C++ backend for AVL Trees](https://github.com/codezonediitj/pydatastructs/pull/564) | **<span style="color: green;">+488</span>** |
-| [C++ backend for Cartesian Trees](https://github.com/codezonediitj/pydatastructs/pull/567) | **<span style="color: green;">+254</span>** |
-| [C++ backend for Treap](https://github.com/codezonediitj/pydatastructs/pull/568) | **<span style="color: green;">+150</span>** |
-| [C++ backend for all trees in `binary_trees.py` file complete](https://github.com/codezonediitj/pydatastructs/pull/569) | **<span style="color: green;">+72</span>** |
-| [Updated Documentation](https://github.com/codezonediitj/pydatastructs/pull/570) | **<span style="color: green;">+12</span>** |
+| [PR: C++ backend for AVL Trees](https://github.com/codezonediitj/pydatastructs/pull/564) | **<span style="color: green;">+488</span>** |
+| [PR: C++ backend for Cartesian Trees](https://github.com/codezonediitj/pydatastructs/pull/567) | **<span style="color: green;">+254</span>** |
+| [PR: C++ backend for Treap](https://github.com/codezonediitj/pydatastructs/pull/568) | **<span style="color: green;">+150</span>** |
+| [PR: C++ backend for all trees in `binary_trees.py` file complete](https://github.com/codezonediitj/pydatastructs/pull/569) | **<span style="color: green;">+72</span>** |
+| [PR: Updated Documentation](https://github.com/codezonediitj/pydatastructs/pull/570) | **<span style="color: green;">+12</span>** |
 
 ---
 
