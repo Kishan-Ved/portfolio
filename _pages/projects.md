@@ -9,18 +9,41 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-<h2><strong>Resume Generator : opensource project</strong></h2>
+<h2><strong>Pre-Trained LLM for Nepali Language with 80 million parameters</strong></h2>
+<p>[Aug '24 - Nov '24]</p>
+<p><em>(Advisor - Professor Mayank Singh, IIT Gandhinagar) | <a
+      href="https://huggingface.co/Kishan-Ved/nepali_pre_trained_80M/tree/main">Model Link</a> | <a
+      href="https://github.com/Kishan-Ved/nepal-LLM/tree/tokenization_pre_train">GitHub</a> | <a
+      href="https://docs.google.com/spreadsheets/d/1-co_8irDi8RMbQBpmy0dVurucci2tkUEoINtMe1r544/edit?usp=sharing">Dataset</a></em></p>
+<ul>
+  <li>Scraped 10,000+ articles and curated 120 GB of raw Nepali data to build a high-quality dataset, essential for pre-training the language model. Technology used: Python, BeautifulSoup, Hugging Face Transformers</li>
+  <li>Trained 7 custom tokenizers and a Llama-based language model, achieving a perplexity score of 171 on sentence completion tasks, demonstrating significant proficiency in Nepali text generation.</li> 
+</ul>
+
+
+<h2><strong>Smart LATEX Resumes powered by AI : opensource project</strong></h2>
 <p>[Dec '23 - Ongoing]</p>
-<p><em>(Code owner and maintainer of this repository, this project has participated in <b>Hacktoberfest 2024</b> and it has recieved several contributions!) | <a
+<p><em>(Project founder and maintainer, this project has participated in <b>Hacktoberfest 2024</b> and it has recieved several contributions!) | <a
       href="https://kishan-ved.github.io/resume_generator/">Project Link</a></em></p>
 <ul>
-  <li>Developing an innovative website dedicated to the automatic generation of student resumes, adhering to the specific format mandated by the Placement Cell at IIT Gandhinagar.</li>
+  <li>Designed and deployed an innovative website for generating resumes in LaTeX, which assisted
+1000+ IITGN students in producing high-quality resumes. Technology used: HTML, CSS, JS, Groq API</li>
   <li>Integrated an AI agent enabling students to enhance details in their resumes seamlessly, with the system autonomously generating professional resumes.</li> 
+</ul>
+
+<h2><strong>Full FPGA Implementation of 32-bit FSM-based Multi-State MIPS Processor</strong></h2>
+<p>[Aug '24 - Nov '24]</p>
+<p><em>(Advisor - Prof. Sameer G Kulkarni, IIT Gandhinagar) | <a
+      href="https://github.com/Kishan-Ved/mips-processor-basys3">Project Link</a></em></p>
+<ul>
+  <li>Developed an expanded ISA with a custom data-path to support recursive functions and high-level MIPS assembly, utilizing FPGA Block RAM (BRAM) and memory-mapped I/O for implementation. Technology used: Verilog, Vivado, Basys3 FPGA</li>
+  <li>Advanced through several development stages, resulting in a stable multi-state processor (v3.2) capable of computing Fibonacci, Factorial, and GCD on the Basys3 FPGA board.</li> 
+  <li>Designed an FSM-based architecture to control each phase of the 32-bit MIPS processor pipeline, enhancing performance through state-driven execution flow.</li>
 </ul>
 
 <h2><strong>Text Generator based on next character prediction (Machine Learning Project)</strong></h2>
 <p>[Mar '24]</p>
-<p><em>(Advisor - Professor Nipun Batra, Professor- IIT Gandhinagar) | <a href="https://github.com/Kishan-Ved/text_generator/tree/emb10">Project Link</a> | <a href="https://skynet-text-generator-ml.streamlit.app/">Application link</a></em></p>
+<p><em>(Advisor - Professor Nipun Batra, IIT Gandhinagar) | <a href="https://github.com/Kishan-Ved/text_generator/tree/emb10">Project Link</a> | <a href="https://skynet-text-generator-ml.streamlit.app/">Application link</a></em></p>
 <ul>
   <li>This project involves generating text by predicting the next character based on the last 'k' characters. The model used is a neural network with an embedding layer followed by 2 hidden layers. The model is able to capture the semantics of English language and generate meaningful words and phrases.</li>
   <li>Observed the difference in results based on the choice of embedding and architecture of the neural network. Performed hyperparameter tuning to get the best results. Learned to deploy an application on Streamlit.</li>
@@ -29,7 +52,7 @@ horizontal: false
 
   <h2><strong>Facebook graph clustering based on density (Data Science Project)</strong></h2>
   <p>[Jan '24]</p>
-  <p><em>(Advisor - Professor Anirban Dasgupta, Professor- IIT Gandhinagar) | <a href="https://github.com/Kishan-Ved/DS_Clustering/blob/master/facebook_graph_clustering.ipynb">Project Link</a></em></p>
+  <p><em>(Advisor - Professor Anirban Dasgupta, IIT Gandhinagar) | <a href="https://github.com/Kishan-Ved/DS_Clustering/blob/master/facebook_graph_clustering.ipynb">Project Link</a></em></p>
   <ul>
     <li>Implemented a greedy algorithm to extract the densest subgraph from Facebook's graph (with pages being nodes and mutual links being edges). Peeled the 5 densest subgraphs (and hence, detected 5 closely knit communities in the graph) and analyzed their entropy.</li>
     <li>Learned to employ data clustering techniques on large real-world datasets, involving logic and algorithmic optimization in terms of both space and time complexity. Developed using Python and its relevant libraries like NumPy and Pandas.</li>
@@ -37,7 +60,7 @@ horizontal: false
 
   <h2><strong>Human Activity Recognizer (using Machine Learning)</strong></h2>
   <p>[Jan '24]</p>
-  <p><em>(Advisor - Professor Nipun Batra, Professor- IIT Gandhinagar) | <a href="https://github.com/Kishan-Ved/ML-actifier">Project Link</a></em></p>
+  <p><em>(Advisor - Professor Nipun Batra, IIT Gandhinagar) | <a href="https://github.com/Kishan-Ved/ML-actifier">Project Link</a></em></p>
   <ul>
     <li>Made a machine learning model that uses only decision trees to recognize 6 different human activities by utilizing time series data of acceleration involved.</li>
     <li>Learned to handle time series data by employing featurization and dimension reduction. Performed hyperparameter tuning to select the best model based on the bias-variance tradeoff. Deployed the model and tested the predictions on real acceleration data collected from a smartphone.</li>
