@@ -24,7 +24,7 @@ horizontal: false
 <h2><strong>Smart LATEX Resumes powered by AI : opensource project</strong></h2>
 <p>[Dec '23 - Ongoing]</p>
 <p><em>(Project founder and maintainer, this project has participated in <b>Hacktoberfest 2024</b> and it has recieved several contributions!) | <a
-      href="https://kishan-ved.github.io/resume_generator/">Project Link</a></em></p>
+      href="https://kishan-ved.github.io/resume_generator/resumegenerator.html">Project Link</a></em></p>
 <ul>
   <li>Designed and deployed an innovative website for generating resumes in LaTeX, which assisted
 1000+ IITGN students in producing high-quality resumes. Technology used: HTML, CSS, JS, Groq API</li>
