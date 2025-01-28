@@ -201,7 +201,7 @@ Workshop on Diffusion Models (NeurIPS: <a href="https://diffusionworkshop.github
     - [FAQ](#faq)
   - [Features](#features)
     - [CV](#cv)
-    - [Publications](#publications)
+    - [Publications](#Publications)
     - [Collections](#collections)
     - [Layouts](#layouts)
       - [The iconic style of Distill](#the-iconic-style-of-distill)
@@ -507,15 +507,15 @@ What this means is, if there is no resume data defined in `_config.yml` and load
 
 ### Publications
 
-Your publications' page is generated automatically from your BibTex bibliography.
+Your Publications' page is generated automatically from your BibTex bibliography.
 Simply edit `_bibliography/papers.bib`.
-You can also add new `*.bib` files and customize the look of your publications however you like by editing `_pages/publications.md`.
+You can also add new `*.bib` files and customize the look of your Publications however you like by editing `_pages/Publications.md`.
 
-<p align="center"><img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/publications-screenshot.png" width=800></p>
+<p align="center"><img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/Publications-screenshot.png" width=800></p>
 
 <details><summary>(click to expand) <strong>Author annotation:</strong></summary>
 
-In publications, the author entry for yourself is identified by string array `scholar:last_name` and string array `scholar:first_name` in `_config.yml`:
+In Publications, the author entry for yourself is identified by string array `scholar:last_name` and string array `scholar:first_name` in `_config.yml`:
 
 ```yaml
 scholar:
