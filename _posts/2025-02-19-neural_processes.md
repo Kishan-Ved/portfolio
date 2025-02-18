@@ -2,10 +2,10 @@
 layout: post
 title: Neural Processes in PyTorch
 date: 2025-02-18 00:00:00-0400
-description: an example of a blog post with jupyter notebook
-categories: sample-posts jupyter-notebook
+description: PyTorch implementation of Latent Neural Processes
+categories: ML NP Coding
 giscus_comments: false
-related_posts: false
+related_posts: true
 ---
 
 {::nomarkdown}
