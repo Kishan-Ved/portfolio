@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neural Processes in PyTorch
-date: 2020-02-18 00:00:00-0400
+date: 2025-02-18 00:00:00-0400
 description: PyTorch implementation of Latent Neural Processes
 categories: ML NP Coding
 giscus_comments: false
@@ -9,8 +9,8 @@ related_posts: true
 ---
 
 {::nomarkdown}
-{% assign jupyter_path = "assets/jupyter/neural-processes-in-pytorch.ipynb" | relative_url %}
-{% capture notebook_exists %}{% file_exists assets/jupyter/neural-processes-in-pytorch.ipynb %}{% endcapture %}
+{% assign jupyter_path = "assets/jupyter/nps-from-blog.ipynb" | relative_url %}
+{% capture notebook_exists %}{% file_exists assets/jupyter/nps-from-blog.ipynb %}{% endcapture %}
 {% if notebook_exists == "true" %}
     {% jupyter_notebook jupyter_path %}
 {% else %}
