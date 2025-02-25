@@ -10,7 +10,7 @@ featured: true
 
 # Google Summer of Code 2024 Report
 This report summarizes the work done by me (**[Kishan Ved](https://github.com/Kishan-Ved)**) for **Google Summer of Code 2024** with the **NumFOCUS** organization, on the project **[Open Science Labs: PyDataStructs: Add a C++ Backend for tree data structures and their algorithms](https://summerofcode.withgoogle.com/programs/2024/projects/2nrxEFTg)**.
-Weekly reports are available here: [GSoC BLogs](https://kishanved.tech/blog/)
+Weekly reports are available here: [GSoC BLogs](https://kishan-ved.github.io/portfolio/blog/)
 
 This report is available as a GitHub Gist, it contains more revisions. [View here.](https://gist.github.com/Kishan-Ved/ebe0a971220d67517ae815e4f92d2459)
 
@@ -99,7 +99,7 @@ Time taken for methods of Binary Search Tree class to execute in different backe
 
 
 ## Weekly reports
-My Google Summer of Code blogs are available on my website: [https://kishanved.tech/blog/](https://kishanved.tech/blog/)
+My Google Summer of Code blogs are available on my website: [https://kishan-ved.github.io/portfolio/blog/](https://kishan-ved.github.io/portfolio/blog/)
 
 ## Future work
 Some issues have been opened, these can be addressed. Refer PyDataStructs Wiki on GitHub for upcoming plans.

@@ -77,7 +77,7 @@ An example code will be used for explanation, as mentioned in the outline of the
 ### Speaker links
 GitHub: [https://github.com/Kishan-Ved](https://github.com/Kishan-Ved)
 
-Google Summer of Code Blogs: [https://kishanved.tech/blog/](https://kishanved.tech/blog/)
+Google Summer of Code Blogs: [https://kishan-ved.github.io/portfolio/blog/](https://kishan-ved.github.io/portfolio/blog/)
 
 Email: kishanved123456@gmail.com
 

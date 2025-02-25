@@ -136,7 +136,7 @@ The picture clearly indicates the utility of the C++ backend. It makes code exec
 
 ## Weekly reports
 
-My Google Summer of Code blogs are available on my website: **[https://kishanved.tech/blog/](https://kishanved.tech/blog/)**
+My Google Summer of Code blogs are available on my website: **[https://kishan-ved.github.io/portfolio/blog/](https://kishan-ved.github.io/portfolio/blog/)**
 
 ## Final Report
 
