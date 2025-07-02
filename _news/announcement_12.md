@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have joined **Microsoft** as a **Software Engineering Intern** in the **Azure Networking** team. My project involves implementing **GitHub Copilot (Agentic AI)** for a specific Azure service.
+I have joined **Microsoft** as a **Software Engineering Intern** in the **Azure Networking** team. My project involves implementing **GitHub Copilot (Agentic AI)** to automatically solve errors.
