@@ -6,12 +6,12 @@ subtitle: B.Tech in Computer Science and Engineering at IIT Gandhinagar
 
 profile:
   align: right
-  image: kishan_pic_IITB_sq.jpeg
-  image_circular: true # crops the image to make it circular
+  image: Kishan_London_PIC.jpeg
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>At InterIIT Tech Meet,</p>
-    <p>IIT Bombay,</p>
-    <p>December, 2024</p>
+    <p>At the Prime Meridian,</p>
+    <p>Greenwich,</p>
+    <p>London, 2026</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
