@@ -9,6 +9,27 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+This page does not include my <em><a href="https://kishan-ved.github.io/portfolio/cv/">internship projects</a></em>.
+
+<h2><strong>DNS Stub Resolver using AF_XDP Sockets and eBPF</strong></h2>
+<p>[Jan '25 - Apr '25]</p>
+<p><em><a href="https://github.com/Kishan-Ved/dns-af_xdp">GitHub</a> | <a href="https://www.youtube.com/watch?v=_tq28Ji7U9M">Video Demo</a></em></p>
+<ul>
+  <li>Designed a high-performance DNS stub resolver using AF_XDP sockets and eBPF, enabling network packets to bypass the Linux kernel's networking stack and be processed directly in user space.</li>
+  <li>Achieved a 10× increase in DNS resolution speed by leveraging zero-copy packet processing and a custom low-latency architecture.</li>
+  <li>Built using techniques commonly employed in low-latency trading systems, where minimizing network latency is critical for high-frequency packet processing.</li>
+</ul>
+
+
+<h2><strong>OSL - Self-Made Programming Language: Compiler and Bytecode Executing VM</strong></h2>
+<p>[Jan '25 - Apr '25]</p>
+<p><em><a href="https://github.com/Kishan-Ved/osl-python/tree/master/osl">GitHub</a> | <a href="https://guntas-13.github.io/osl.docs/">Documentation Website</a></em></p>
+<ul>
+  <li>Engineered a programming language with a compiler and bytecode virtual machine, supporting first-class functions, lexical scoping, closures, and an unambiguous grammar.</li>
+  <li>Implemented advanced language features and validated the system by solving 10+ Project Euler problems, demonstrating support for real-world programming use cases.</li>
+</ul>
+
+
 <h2><strong>Pre-Trained LLM for Nepali Language with 80 million parameters</strong></h2>
 <p>[Aug '24 - Nov '24]</p>
 <p><em>(Advisor - Professor Mayank Singh, IIT Gandhinagar) | <a
