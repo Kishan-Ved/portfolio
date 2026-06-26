@@ -10,6 +10,8 @@ For modifications, run the following commands inside this folder (currently name
 
 Now wait for a while, changes will appear after the gh-pages branch is AUTOMATICALLY modified.
 
+Deployed at: [https://kishan-ved.github.io/portfolio/](https://kishan-ved.github.io/portfolio/), via the master branch
+
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
@@ -201,7 +203,7 @@ Workshop on Diffusion Models (NeurIPS: <a href="https://diffusionworkshop.github
     - [FAQ](#faq)
   - [Features](#features)
     - [CV](#cv)
-    - [Publications](#Publications)
+    - [Publications](#publications)
     - [Collections](#collections)
     - [Layouts](#layouts)
       - [The iconic style of Distill](#the-iconic-style-of-distill)
