@@ -26,8 +26,8 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 # About Me:
-- I am currently a **[Quantitative Developer at QRT]()**, in the **London Headquarter Office**. I work in **high frequency trading**.
-- I am one of the very few overseas interns (and until now, **the only one from India**) sponsored by QRT to work in the London office. 
+- I am currently a **[Quantitative Developer at QRT]()**, in the **London Headquarter Office**. I work in the **high frequency trading team**.
+- I was one of the very few overseas interns (and until now, **the only one from India**) sponsored by QRT to work in the London office. 
 - I have interned at **[Microsoft India R&D]()** and **[Tower Research Capital]()**, an **HFT Firm**.
 - I'm an Open Source Contributor and I have contributed to **NumFOCUS** (**[PyDataStructs](https://github.com/codezonediitj/pydatastructs)**) for **Google Summer of Code 2024**. Check out my <b>**[GSoC'24 Blogs](https://kishan-ved.github.io/portfolio/blog/)**.<br></b>
 - I have also contributed to other large scale open source projects, like **LFortran**, a Fortran compiler and **LPython**, a Python compiler.<br>
