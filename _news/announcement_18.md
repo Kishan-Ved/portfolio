@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I graduate from **IIT Gandhinagar** with a **B.Tech degree in Computer Science and Engineering**!
+I graduated from **IIT Gandhinagar** with a **B.Tech degree in Computer Science and Engineering**!
